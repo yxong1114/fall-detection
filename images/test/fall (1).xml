@@ -1,0 +1,27 @@
+﻿<?xml version="1.0"?>
+<annotation>
+    <folder>images</folder>
+    <filename>fall (1).png</filename>
+    <path>images/fall (1).png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1920</width>
+        <height>1088</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fall</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>891.6666666666666</xmin>
+            <ymin>176.66666666666666</ymin>
+            <xmax>1223.3333333333333</xmax>
+            <ymax>1043.3332316080728</ymax>
+        </bndbox>
+    </object>
+</annotation>

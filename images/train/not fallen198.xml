@@ -1,0 +1,21 @@
+<annotation>
+	<filename>not fallen198.jpg</filename>
+	<folder>/content/drive/MyDrive/IntelligentSystems/fall_dataset/labels/train_xml/not fallen198.xml</folder>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>sit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>178</xmin>
+			<ymin>89</ymin>
+			<xmax>220</xmax>
+			<ymax>188</ymax>
+		</bndbox>
+	</object>
+</annotation>
