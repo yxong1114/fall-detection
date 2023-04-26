@@ -1,0 +1,51 @@
+﻿<?xml version="1.0"?>
+<annotation>
+    <folder>images</folder>
+    <filename>walk (1).png</filename>
+    <path>images/walk (1).png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1920</width>
+        <height>1088</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>walk</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>854</xmin>
+            <ymin>267</ymin>
+            <xmax>926</xmax>
+            <ymax>502</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>walk</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>466.66666666666663</xmin>
+            <ymin>138.33333333333331</ymin>
+            <xmax>796.6667175292969</xmax>
+            <ymax>898.3333333333333</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>walk</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>908.000061035156</xmin>
+            <ymin>151.99999999999997</ymin>
+            <xmax>1179.9999999999998</xmax>
+            <ymax>1077.9999999999998</ymax>
+        </bndbox>
+    </object>
+</annotation>

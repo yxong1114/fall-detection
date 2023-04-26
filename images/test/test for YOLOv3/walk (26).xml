@@ -1,0 +1,27 @@
+﻿<?xml version="1.0"?>
+<annotation>
+    <folder>images</folder>
+    <filename>walk (26).png</filename>
+    <path>images/walk (26).png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1088</width>
+        <height>1920</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>walk</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>202.50001907348624</xmin>
+            <ymin>242.49999999999991</ymin>
+            <xmax>795.000076293945</xmax>
+            <ymax>1519.999847412109</ymax>
+        </bndbox>
+    </object>
+</annotation>
