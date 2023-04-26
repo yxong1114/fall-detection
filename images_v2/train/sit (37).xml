@@ -1,0 +1,39 @@
+﻿<?xml version="1.0"?>
+<annotation>
+    <folder>images</folder>
+    <filename>sit (37).png</filename>
+    <path>images/sit (37).png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1920</width>
+        <height>1088</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>sit</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>431</xmin>
+            <ymin>67</ymin>
+            <xmax>760</xmax>
+            <ymax>723</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>sit</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>884</xmin>
+            <ymin>74</ymin>
+            <xmax>1228</xmax>
+            <ymax>1028</ymax>
+        </bndbox>
+    </object>
+</annotation>

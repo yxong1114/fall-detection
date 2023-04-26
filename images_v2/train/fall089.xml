@@ -1,0 +1,21 @@
+<annotation>
+	<filename>fall089.jpg</filename>
+	<folder>/content/drive/MyDrive/IntelligentSystems/fall_dataset/labels/train_xml/fall089.xml</folder>
+	<size>
+		<width>297</width>
+		<height>170</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>fall</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>6</ymin>
+			<xmax>297</xmax>
+			<ymax>148</ymax>
+		</bndbox>
+	</object>
+</annotation>
